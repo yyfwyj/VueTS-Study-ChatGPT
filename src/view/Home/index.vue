@@ -11,6 +11,6 @@
 
 <style>
     .Home {
-
+        width: 100%
     }
 </style>
